@@ -1,0 +1,9 @@
+name: idgsp
+channels:
+  - defaults
+dependencies:
+  - pygimli=1.2.1
+  - jupyterlab
+  - pandas
+  - matplotlib=3.3.4
+prefix: /Users/teddiherringnew/anaconda/envs/idgsp
