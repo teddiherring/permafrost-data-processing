@@ -1,8 +1,15 @@
-**[setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
+**[contents](#Contents) | [setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # permafrost-data-processing
 A place for the International Permafrost Association action group “towards an international database of geoelectrical surveys on permafrost (IDGSP)” to share data and processing algorithms.
 
+## Contents
+
+This respository has a few things in it so far:
+
+1. [notebook for data processing](./data_filtering.ipynb): In this notebook, you can load, filter, and invert ERT datasets.
+2. [data files](./data_unified): This folder contains various ERT datasets that you can load into the data processing notebook. The datasets are all in the [BERT unified data format](http://resistivity.net/bert/data_format.html).
+ 
 ## Setup
 
 Here are step-by-step instructions for running these notebooks locally on your machine:
