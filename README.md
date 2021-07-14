@@ -41,7 +41,7 @@ Next, running the following command
 jupyter notebook
 ```
 
-will open a Juputer notebook in your web browser.
+will open a Juputer notebook in your web browser. You can now open the data_filtering notebook and start running the code!
 
 ## Running the notebooks
 
