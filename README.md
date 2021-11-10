@@ -7,7 +7,7 @@ A place for the International Permafrost Association action group “towards an 
 
 This respository has a few things in it so far:
 
-1. [notebook for data processing](./data_filtering.ipynb): In this notebook, you can load, filter, and invert ERT datasets.
+1. [notebook for data processing](./data_processing.ipynb): In this notebook, you can load, filter, and invert ERT datasets.
 2. [data files](./data_unified): This folder contains various ERT datasets that you can load into the data processing notebook. The datasets are all in the [BERT unified data format](http://resistivity.net/bert/data_format.html).
  
 ## Setup
@@ -41,7 +41,7 @@ Next, running the following command
 jupyter notebook
 ```
 
-will open a Juputer notebook in your web browser. You can now open the data_filtering notebook and start running the code!
+will open a Juputer notebook in your web browser. You can now open the data_processing notebook and start running the code!
 
 ## Running the notebooks
 
