@@ -1,10 +1,12 @@
 name: idgsp
 channels:
   - conda-forge
-  - gimli
   - defaults
+  - gimli
 dependencies:
-  - pygimli=1.2.1
+  - python=3.9  
+  - pygimli=1.2.4
   - jupyterlab
   - pandas
-  - matplotlib=3.3.4
+  - matplotlib=3.3
+  
