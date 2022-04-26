@@ -9,4 +9,4 @@ dependencies:
   - jupyterlab
   - pandas
   - matplotlib=3.3
-  
+  - ipywidgets
